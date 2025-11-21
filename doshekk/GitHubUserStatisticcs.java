@@ -4,7 +4,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 
-public class GitHubUserStatistics {
+public class GitHubUserStatisticcs {
     public final static String USER_NAME = "doshekk"; //Replace with the desired GitHub username
 
 
